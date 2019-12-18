@@ -94,4 +94,9 @@ public class StringUtil {
 		}
 		return sb.toString();
 	}
+	//	获取n个随机中文字符串4e00--9fa5
+	public static boolean isHttpUrl(String length) {
+		
+		return true;
+	}
 }
